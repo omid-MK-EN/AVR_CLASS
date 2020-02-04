@@ -8,9 +8,9 @@
  */ 
 
 #include "library/config.h"
-//#include <avr/io.h>
-//#include "library/global.h"
-//#include <util/delay.h>
+#include <avr/io.h>
+#include "library/global.h"
+#include <util/delay.h>
 
 
 //void cofig_port(void);
