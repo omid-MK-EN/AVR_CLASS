@@ -1,8 +1,10 @@
 /*
  * GccApplication1.c
  *
- * Created: 1/6/2020 1:32:03 PM
- *  Author: DELL
+ * Created: 4/2/2020 1:32:03 PM
+ *  Author: omid
+    version = 4.0
+
  */ 
 
 #include "library/config.h"
